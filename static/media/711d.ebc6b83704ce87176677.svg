@@ -1,0 +1,32 @@
+<svg id="Smoke" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="511.61" height="286.277" viewBox="0 0 69.81 39.063">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #daecf9;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1074.84" y="695.938" width="17.97" height="17.968" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="1074.84" y="695.938" width="17.97" height="17.968" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTcuOTciIGhlaWdodD0iMTcuOTY4IiB2aWV3Qm94PSIwIDAgMTcuOTcgMTcuOTY4Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9IjAuMDAxIiB5MT0iMTcuOTY4IiB4Mj0iMTcuOTY5IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2QxZThmOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNlMWVlZjkiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjE3Ljk3IiBoZWlnaHQ9IjE3Ljk2OCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="smoke-01" class="cls-1" d="M1059.99,700.493a13.505,13.505,0,1,1-13.5-13.5A13.5,13.5,0,0,1,1059.99,700.493Z" transform="translate(-1032.97 -681.906)"/>
+  <path id="smoke-04" class="cls-2" d="M1052.96,708.466a12.5,12.5,0,1,1,12.49,12.493A12.491,12.491,0,0,1,1052.96,708.466Z" transform="translate(-1032.97 -681.906)"/>
+  <path id="smoke-05" class="cls-2" d="M1092,694.5a10.5,10.5,0,1,1-10.5-10.5A10.5,10.5,0,0,1,1092,694.5Z" transform="translate(-1032.97 -681.906)"/>
+  <path id="smoke-06" class="cls-2" d="M1084.81,701.856a8.99,8.99,0,1,0,8.99-8.986A8.992,8.992,0,0,0,1084.81,701.856Z" transform="translate(-1032.97 -681.906)"/>
+  <path id="smoke-02" class="cls-1" d="M1073.87,691.93a10.015,10.015,0,1,1-10.02-10.012A10.019,10.019,0,0,1,1073.87,691.93Z" transform="translate(-1032.97 -681.906)"/>
+  <path id="smoke-03" class="cls-3" d="M1074.84,704.918a8.985,8.985,0,1,1,8.99,8.986A8.991,8.991,0,0,1,1074.84,704.918Z" transform="translate(-1032.97 -681.906)"/>
+</svg>
